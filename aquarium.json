@@ -1,0 +1,14 @@
+{
+    "dados": [
+        {"name": "Sami", "species": "Peixe-Palhaço", "tank_number": 11, "type": "fish"},
+        {"name": "Ashley", "species": "Ostra", "tank_number": 25, "type": "shellfish"},
+        {"name": "Jojo", "species": "Cirurgião-Patela", "tank_number": 7, "type": "fish"},
+        {"name": "Jack", "species": "Caranguejo", "tank_number": 21, "type": "shellfish"},
+        {"name": "Charlie", "species": "Atum-Azul", "tank_number": 15, "type": "fish"},
+        {"name": "Ollie", "species": "Tartaruga-Verde", "tank_number": 24, "type": "turtle"},
+        {"name": "Nemo", "species": "Peixe-Anêmona", "tank_number": 12, "type": "fish"},
+        {"name": "Shelly", "species": "Tartaruga-de-Pente", "tank_number": 18, "type": "turtle"},
+        {"name": "Pearl", "species": "Vieira", "tank_number": 30, "type": "shellfish"},
+        {"name": "Finley", "species": "Tubarão-Baleia", "tank_number": 8, "type": "fish"}
+    ]
+}
